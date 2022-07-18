@@ -5,7 +5,7 @@ import "fmt"
 func getCompleteName() (firstName string, middleName string, lastName string) {
 	firstName = "Rangga"
 	middleName = "Aulia"
-	lastName = "Putra"
+	lastName = "Putra AAA"
 
 	return
 }
