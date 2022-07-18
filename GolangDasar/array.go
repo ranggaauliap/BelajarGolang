@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func array() {
 	var names [3]string
 
 	names[0] = "Rangga"
